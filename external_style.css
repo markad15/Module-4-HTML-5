@@ -1,18 +1,22 @@
 h3{
     color:Green;
-};
+}
 
-.start_div{
-    border-color: aqua;
-    width: 100%;
-    height: 30%;
+.first_div{
     
-};
+    border-style: dotted;
+    border-color:rgb(30, 114, 210);
+    width: 100%;
+    height: 40%;
+    color: black;
+}
 
 #Third_div{
+    
+    border-style: solid;
     border-color: chocolate;
     width: 100%;
-    height: 30%;
-    color: chartreuse;
-    border-style: solid;
-};
+    height: 40%;
+    color: black;
+    
+}
