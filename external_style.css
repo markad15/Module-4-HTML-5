@@ -1,0 +1,15 @@
+h3{
+    color:Green;
+};
+
+.start_div{
+    height:200px;
+    width:100px;
+    border:2px solid brown;
+};
+
+#Third_div{
+    height:200px;
+    width:100px;
+    border:2px solid red
+};
